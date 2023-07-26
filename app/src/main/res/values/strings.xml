@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student Healthcare</string>
+    <string name="student_healthcare_24_7">Student Healthcare 24*7</string>
+    <string name="lab_test">LAB TEST</string>
+</resources>

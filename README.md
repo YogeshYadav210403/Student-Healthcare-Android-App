@@ -27,3 +27,6 @@ The Student Healthcare App boasts the following key features:
        Order Details: Users can access their past order history, view details, and track ongoing orders.
 
        Logout: Provides a safe and secure way for users to log out from their accounts.
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
